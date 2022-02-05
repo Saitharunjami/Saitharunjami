@@ -22,7 +22,12 @@ Here are some ideas to get you started:
   <a href="mailto:saitharunjami@gmail.com">
     <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/gmail.svg" />
   </a>
-</p>
+
+  <br />
+  <a href="http://vijaybalaji.me/">
+    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/GIF/Gif.gif" />
+  </a>
+  <br /><br />
 
 ### Just another Technology enthusiast 💻
 
@@ -35,11 +40,11 @@ Here are some ideas to get you started:
 
 ### Languages 🚀
 
-| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a> |
+| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a> |  <a href="https://www.mathworks.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60></a> | Still Learning....
 
 ### Tools 🔥
 
-| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |
+| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |  <a href="http://github.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60></a> |
 
 
   <a href="https://sourcerer.io/Saitharunjami">
@@ -54,20 +59,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<details>
-   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-
-
-
-### Trying to get in touch? 📞
+ ### Trying to get in touch? 📞
 
 <p align="center">
   <a href="mailto:saitharunjami@gmail.com">
-    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
+    <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>  | 👉👉          saitharunjami@gmail.com 
   </a>
 
- 
 </p>
 
 ---
