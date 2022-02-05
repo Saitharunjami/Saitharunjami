@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 ### Languages 🚀
 
-| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a> | <a 
+| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a> | 
+<a> 
 | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### Tools 🔥
@@ -49,15 +50,15 @@ Here are some ideas to get you started:
 ### Github stats 📊
 
 <p align="center">
-  <a href="https://sourcerer.io/svijayb">
-    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=light">
+  <a href="https://sourcerer.io/Saitharunjami">
+    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Saitharunjami&show_icons=true&theme=light">
   </a>
-  <a href="https://sourcerer.io/svijayb">
-    <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats.herokuapp.com?user=SVijayB&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
+  <a href="https://sourcerer.io/Saitharunjami">
+    <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats.herokuapp.com?user=Saitharunjami&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
   </a>
   <br>
-  <a href="https://sourcerer.io/svijayb">
-    <img alt = "Contribution Graph" src = "https://activity-graph.herokuapp.com/graph?username=SVijayB&theme=react-dark">
+  <a href="https://sourcerer.io/Saitharunjami">
+    <img alt = "Contribution Graph" src = "https://activity-graph.herokuapp.com/graph?username=Saitharunjami&theme=react-dark">
   </a>
 </p>
 
@@ -65,15 +66,7 @@ Here are some ideas to get you started:
    <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
-<!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#34](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/34) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-2. 🎉 Merged PR [#9](https://github.com/Open-Source-Community-VIT-AP/OSC-API/pull/9) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
-3. 🎉 Merged PR [#3](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/pull/3) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
-4. 🗣 Commented on [#3](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/issues/3) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
-5. 🎉 Merged PR [#2](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/pull/2) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
-    <!--END_SECTION:activity-->
-    </details>
 
 ### Trying to get in touch? 📞
 
