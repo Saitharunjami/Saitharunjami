@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 </p>
 
-### Just another Machine learning, Data science enthusiast 💻
+### Just another Technology enthusiast 💻
 
 -   📝 Working on various Python projects and java projects.
 -   🌱 Learning Java and Python.
@@ -37,15 +37,12 @@ Here are some ideas to get you started:
 ### Languages 🚀
 
 | <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a> |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### Tools 🔥
 
-| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/Saitharunjami/Saitharunjami/master/assets/SVG/Tools/Vscode.svg" width=60></a> | <a 
+| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |
 
-| :----------------------------------------------------------------------------------------------------------------------------------------------------: 
 
-<p align="center">
   <a href="https://sourcerer.io/Saitharunjami">
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Saitharunjami&show_icons=true&theme=light">
   </a>
