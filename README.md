@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="mailto:saitharunjami@gmail.com">
-    <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/Saitharunjami/Saitharunjami/master/assets/SVG/Social/gmail.svg" />
+    <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/gmail.svg" />
   </a>
-
 </p>
 
 ### Just another Technology enthusiast 💻
