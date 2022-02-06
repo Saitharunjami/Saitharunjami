@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br />
     <img align="center" alt="GIF" src="https://github.com/Saitharunjami/Saitharunjami/blob/main/200.gif" />
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitharunjami&label=Profile%20views&color=0e75b6&style=flat" alt="saitharunjami" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=saitharunjami&label=Profile%20views&color=0e75b6&style=flat" alt="saitharunjami" /> </p>
   </a>
   <br />
 
