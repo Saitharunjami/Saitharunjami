@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Tools 🔥
 
-| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |  <a href="http://github.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60></a> |
+| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |  <a href="http://github.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60></a> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> |
 
 
   <a href="https://sourcerer.io/Saitharunjami">
