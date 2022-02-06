@@ -24,8 +24,9 @@ Here are some ideas to get you started:
   </a>
 
   <br />
-  <a href="http://vijaybalaji.me/">
-    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/GIF/Gif.gif" />
+    <img align="center" alt="GIF" src="https://github.com/Saitharunjami/Saitharunjami/blob/main/200.gif" />
+   
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=saitharunjami&label=Profile%20views&color=0e75b6&style=flat" alt="saitharunjami" /> </p>
   </a>
   <br /><br />
 
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 
 ### Languages 🚀
 
-| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a> |  <a href="https://www.mathworks.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60></a> | Still Learning....
+| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width=60></a> |  <a href="https://www.mathworks.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60></a> | Still Learning....
 
 ### Tools 🔥
 
@@ -62,8 +63,20 @@ Here are some ideas to get you started:
  ### Trying to get in touch? 📞
 
 <p align="center">
-  <a href="mailto:saitharunjami@gmail.com">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclbiyxylz33udp7caimed0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+ alt="https://www.youtube.com/channel/uclbiyxylz33udp7caimed0a" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/saitharunjami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/saitharunjami" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@saitharunjami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@saitharunjami" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/saitharunjami/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/saitharunjami/profile" height="30" width="40" /></a>
+<a href="https://discord.gg/Tharun#6510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tharun#6510" height="30" width="40" /></a>
+ 
+ <a href="mailto:saitharunjami@gmail.com">
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>  | 👉👉          saitharunjami@gmail.com 
+   
+</p>
   </a>
 
 </p>
