@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saitharunjami&label=Profile%20views&color=0e75b6&style=flat" alt="saitharunjami" /> </p>
   </a>
+  
   <br />
 
 ### Just another Technology enthusiast 💻
