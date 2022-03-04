@@ -46,11 +46,21 @@ Here are some ideas to get you started:
 
 | <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |  <a href="http://github.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60></a> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> |
 
-
+  <p align="center">
   <a href="https://sourcerer.io/Saitharunjami">
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Saitharunjami&show_icons=true&theme=light">
   </a>
   <a 
+     
+<br>
+   <p align="center">
+     <a href="https://sourcerer.io/Saitharunjami">
+    <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats.herokuapp.com?user=Saitharunjami&theme=dark&show=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
+  </a>
+  <br>
+    
+  
+  
   <br>
   <a href="https://sourcerer.io/Saitharunjami">
     <img alt = "Contribution Graph" src = "https://activity-graph.herokuapp.com/graph?username=Saitharunjami&theme=react-dark">
