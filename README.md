@@ -82,6 +82,9 @@ Here are some ideas to get you started:
  <a href="mailto:saitharunjami@gmail.com">
     <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/gmail.svg" />
   </a>
+  <a href="https://www.linkedin.com/in/sai-tharun-jami-9450b8236/">
+    <img alt="Linkedin" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/linkedin.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
  
 </p>
   </a>
